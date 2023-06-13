@@ -1,0 +1,15 @@
+{
+  "name": "api_ya_todo",
+  "version": "1.0.0",
+  "description": "TodoListApp_API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon server.js"
+  },
+  "author": "Karani Keith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
